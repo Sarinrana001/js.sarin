@@ -8,3 +8,4 @@ let isloggedIn=false
 let sate=null
 console.table([name,age,isloggedIn])
 console.log(typeof null)
+console.log(typeof name);
